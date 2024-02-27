@@ -19,7 +19,7 @@ function ListOfCountries({ countries }) {
 
 const NoCountriesResults = () => {
     return (
-        <p>No hay resultados</p>
+        <p>No results</p>
     )
 }
 
