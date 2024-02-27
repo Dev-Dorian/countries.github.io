@@ -65,7 +65,7 @@ function App() {
         <h1>Countries Search</h1>
         <form className='form' onSubmit={handleSubmit} action="">
           <input style={{ border: '1px solid transparent', borderColor: error ? 'red' : 'transparent', width: '300px' }} onChange={handleChange} value={search} name='query' placeholder='Countries Common Or Official Value' />
-          <button type='submit'>Buscar</button>
+          <button type='submit'>Search</button>
         </form>
         {error && <p style={{ color: 'red' }} className='error'>{error}</p>}
       </header>
