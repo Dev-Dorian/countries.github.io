@@ -7,9 +7,9 @@ function ListOfCountries({ countries }) {
                         <h3>{country.name}</h3>
                         <img src={country.flags} alt={country.flag} />
                         <p>{country.name_oficial}</p>
-                        <h4>{country.capital}</h4>
+                        <h4>Capital {country.capital}</h4>
                         <h4>{country.language}</h4>
-                        <h4>{country.continents}</h4>
+                        <h4>Continent {country.continents}</h4>
                     </li>
                 ))
             }

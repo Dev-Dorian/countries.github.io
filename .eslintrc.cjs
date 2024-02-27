@@ -18,7 +18,7 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },*/
-  // Agrego esta linea por los errores " is missing in props validation " en el archivo Countries.jsx
+  // I added this line for the errors " is missing in props validation " in the Countries.jsx file
   rules: {
     "react-refresh/only-export-components": [
       "warn",
