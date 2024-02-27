@@ -19,17 +19,17 @@ function useSearch() {
     }
 
     if (search === '') {
-      setError('No se puede buscar una pelicula vacia')
+      setError('You can not search for an empty movie')
       return
     }
 
     if (search.match(/^\d+$/)) {
-      setError('No se puede buscar una pelicula con un numero')
+      setError('Can not search for a movie with a number')
       return
     }
 
     if (search.length < 3) {
-      setError('La busqueda debe tener al menos 3 caracteristicas')
+      setError('The search must have at least 3 characteristics')
       return
     }
     setError(null)
