@@ -1,0 +1,643 @@
+[
+    {
+        "name": {
+            "common": "Costa Rica",
+            "official": "Republic of Costa Rica",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Costa Rica",
+                    "common": "Costa Rica"
+                }
+            }
+        },
+        "tld": [
+            ".cr"
+        ],
+        "cca2": "CR",
+        "ccn3": "188",
+        "cca3": "CRI",
+        "cioc": "CRC",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican colón",
+                "symbol": "₡"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "06"
+            ]
+        },
+        "capital": [
+            "San José"
+        ],
+        "altSpellings": [
+            "CR",
+            "Republic of Costa Rica",
+            "República de Costa Rica"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية كوستاريكا",
+                "common": "كوستاريكا"
+            },
+            "bre": {
+                "official": "Republik Costa Rica",
+                "common": "Costa Rica"
+            },
+            "ces": {
+                "official": "Kostarická republika",
+                "common": "Kostarika"
+            },
+            "cym": {
+                "official": "Gweriniaeth Costa Rica",
+                "common": "Costa Rica"
+            },
+            "deu": {
+                "official": "Republik Costa Rica",
+                "common": "Costa Rica"
+            },
+            "est": {
+                "official": "Costa Rica Vabariik",
+                "common": "Costa Rica"
+            },
+            "fin": {
+                "official": "Costa Rican tasavalta",
+                "common": "Costa Rica"
+            },
+            "fra": {
+                "official": "République du Costa Rica",
+                "common": "Costa Rica"
+            },
+            "hrv": {
+                "official": "Republika Kostarika",
+                "common": "Kostarika"
+            },
+            "hun": {
+                "official": "Costa Rica-i Köztársaság",
+                "common": "Costa Rica"
+            },
+            "ita": {
+                "official": "Repubblica di Costa Rica",
+                "common": "Costa Rica"
+            },
+            "jpn": {
+                "official": "コスタリカ共和国",
+                "common": "コスタリカ"
+            },
+            "kor": {
+                "official": "코스타리카 공화국",
+                "common": "코스타리카"
+            },
+            "nld": {
+                "official": "Republiek Costa Rica",
+                "common": "Costa Rica"
+            },
+            "per": {
+                "official": "جمهوری کاستاریکا",
+                "common": "کاستاریکا"
+            },
+            "pol": {
+                "official": "Republika Kostaryki",
+                "common": "Kostaryka"
+            },
+            "por": {
+                "official": "República da Costa Rica",
+                "common": "Costa Rica"
+            },
+            "rus": {
+                "official": "Республика Коста-Рика",
+                "common": "Коста-Рика"
+            },
+            "slk": {
+                "official": "Kostarická republika",
+                "common": "Kostarika"
+            },
+            "spa": {
+                "official": "República de Costa Rica",
+                "common": "Costa Rica"
+            },
+            "srp": {
+                "official": "Република Костарика",
+                "common": "Костарика"
+            },
+            "swe": {
+                "official": "Republiken Costa Rica",
+                "common": "Costa Rica"
+            },
+            "tur": {
+                "official": "Kosta Rika Cumhuriyeti",
+                "common": "Kosta Rika"
+            },
+            "urd": {
+                "official": "جمہوریہ کوسٹاریکا",
+                "common": "کوسٹاریکا"
+            },
+            "zho": {
+                "official": "哥斯达黎加共和国",
+                "common": "哥斯达黎加"
+            }
+        },
+        "latlng": [
+            10,
+            -84
+        ],
+        "landlocked": false,
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "area": 51100,
+        "demonyms": {
+            "eng": {
+                "f": "Costa Rican",
+                "m": "Costa Rican"
+            },
+            "fra": {
+                "f": "Costaricaine",
+                "m": "Costaricain"
+            }
+        },
+        "flag": "🇨🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287667"
+        },
+        "population": 5094114,
+        "gini": {
+            "2019": 48.2
+        },
+        "fifa": "CRC",
+        "car": {
+            "signs": [
+                "CR"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cr.png",
+            "svg": "https://flagcdn.com/cr.svg",
+            "alt": "The flag of Costa Rica is composed of five horizontal bands of blue, white, red, white and blue. The central red band is twice the height of the other four bands."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cr.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cr.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                9.93,
+                -84.09
+            ]
+        },
+        "postalCode": {
+            "format": "####",
+            "regex": "^(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic",
+            "nativeName": {
+                "grn": {
+                    "official": "Argentine Republic",
+                    "common": "Argentina"
+                },
+                "spa": {
+                    "official": "República Argentina",
+                    "common": "Argentina"
+                }
+            }
+        },
+        "tld": [
+            ".ar"
+        ],
+        "cca2": "AR",
+        "ccn3": "032",
+        "cca3": "ARG",
+        "cioc": "ARG",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "4"
+            ]
+        },
+        "capital": [
+            "Buenos Aires"
+        ],
+        "altSpellings": [
+            "AR",
+            "Argentine Republic",
+            "República Argentina"
+        ],
+        "region": "Americas",
+        "subregion": "South America",
+        "languages": {
+            "grn": "Guaraní",
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية الأرجنتين",
+                "common": "الأرجنتين"
+            },
+            "bre": {
+                "official": "Republik Arc'hantina",
+                "common": "Arc'hantina"
+            },
+            "ces": {
+                "official": "Argentinská republika",
+                "common": "Argentina"
+            },
+            "cym": {
+                "official": "Gweriniaeth yr Ariannin",
+                "common": "Ariannin"
+            },
+            "deu": {
+                "official": "Argentinische Republik",
+                "common": "Argentinien"
+            },
+            "est": {
+                "official": "Argentina Vabariik",
+                "common": "Argentina"
+            },
+            "fin": {
+                "official": "Argentiinan tasavalta",
+                "common": "Argentiina"
+            },
+            "fra": {
+                "official": "République argentine",
+                "common": "Argentine"
+            },
+            "hrv": {
+                "official": "Argentinski Republika",
+                "common": "Argentina"
+            },
+            "hun": {
+                "official": "Argentin Köztársaság",
+                "common": "Argentína"
+            },
+            "ita": {
+                "official": "Repubblica Argentina",
+                "common": "Argentina"
+            },
+            "jpn": {
+                "official": "アルゼンチン共和国",
+                "common": "アルゼンチン"
+            },
+            "kor": {
+                "official": "아르헨티나 공화국",
+                "common": "아르헨티나"
+            },
+            "nld": {
+                "official": "Argentijnse Republiek",
+                "common": "Argentinië"
+            },
+            "per": {
+                "official": "جمهوری آرژانتین",
+                "common": "آرژانتین"
+            },
+            "pol": {
+                "official": "Republika Argentyńska",
+                "common": "Argentyna"
+            },
+            "por": {
+                "official": "República Argentina",
+                "common": "Argentina"
+            },
+            "rus": {
+                "official": "Аргентинская Республика",
+                "common": "Аргентина"
+            },
+            "slk": {
+                "official": "Argentínska republika",
+                "common": "Argentína"
+            },
+            "spa": {
+                "official": "República Argentina",
+                "common": "Argentina"
+            },
+            "srp": {
+                "official": "Аргентинска Република",
+                "common": "Аргентина"
+            },
+            "swe": {
+                "official": "Republiken Argentina",
+                "common": "Argentina"
+            },
+            "tur": {
+                "official": "Arjantin Cumhuriyeti",
+                "common": "Arjantin"
+            },
+            "urd": {
+                "official": "جمہوریہ ارجنٹائن",
+                "common": "ارجنٹائن"
+            },
+            "zho": {
+                "official": "阿根廷共和国",
+                "common": "阿根廷"
+            }
+        },
+        "latlng": [
+            -34,
+            -64
+        ],
+        "landlocked": false,
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "area": 2780400,
+        "demonyms": {
+            "eng": {
+                "f": "Argentine",
+                "m": "Argentine"
+            },
+            "fra": {
+                "f": "Argentine",
+                "m": "Argentin"
+            }
+        },
+        "flag": "🇦🇷",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/286393"
+        },
+        "population": 45376763,
+        "gini": {
+            "2019": 42.9
+        },
+        "fifa": "ARG",
+        "car": {
+            "signs": [
+                "RA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "continents": [
+            "South America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ar.png",
+            "svg": "https://flagcdn.com/ar.svg",
+            "alt": "The flag of Argentina features three equal horizontal bands of light blue, white and light blue. A brown-edged golden sun is centered in the white band."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ar.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ar.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                -34.58,
+                -58.67
+            ]
+        },
+        "postalCode": {
+            "format": "@####@@@",
+            "regex": "^([A-Z]\\d{4}[A-Z]{3})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Panama",
+            "official": "Republic of Panama",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Panamá",
+                    "common": "Panamá"
+                }
+            }
+        },
+        "tld": [
+            ".pa"
+        ],
+        "cca2": "PA",
+        "ccn3": "591",
+        "cca3": "PAN",
+        "cioc": "PAN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B/."
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "07"
+            ]
+        },
+        "capital": [
+            "Panama City"
+        ],
+        "altSpellings": [
+            "PA",
+            "Republic of Panama",
+            "República de Panamá"
+        ],
+        "region": "Americas",
+        "subregion": "Central America",
+        "languages": {
+            "spa": "Spanish"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية بنما",
+                "common": "بنما"
+            },
+            "bre": {
+                "official": "Republik Panama",
+                "common": "Panama"
+            },
+            "ces": {
+                "official": "Panamská republika",
+                "common": "Panama"
+            },
+            "cym": {
+                "official": "Republic of Panama",
+                "common": "Panama"
+            },
+            "deu": {
+                "official": "Republik Panama",
+                "common": "Panama"
+            },
+            "est": {
+                "official": "Panama Vabariik",
+                "common": "Panama"
+            },
+            "fin": {
+                "official": "Panaman tasavalta",
+                "common": "Panama"
+            },
+            "fra": {
+                "official": "République du Panama",
+                "common": "Panama"
+            },
+            "hrv": {
+                "official": "Republika Panama",
+                "common": "Panama"
+            },
+            "hun": {
+                "official": "Panamai Köztársaság",
+                "common": "Panama"
+            },
+            "ita": {
+                "official": "Repubblica di Panama",
+                "common": "Panama"
+            },
+            "jpn": {
+                "official": "パナマ共和国",
+                "common": "パナマ"
+            },
+            "kor": {
+                "official": "파나마 공화국",
+                "common": "파나마"
+            },
+            "nld": {
+                "official": "Republiek Panama",
+                "common": "Panama"
+            },
+            "per": {
+                "official": "جمهوری پاناما",
+                "common": "پاناما"
+            },
+            "pol": {
+                "official": "Republika Panamy",
+                "common": "Panama"
+            },
+            "por": {
+                "official": "República do Panamá",
+                "common": "Panamá"
+            },
+            "rus": {
+                "official": "Республика Панама",
+                "common": "Панама"
+            },
+            "slk": {
+                "official": "Panamská republika",
+                "common": "Panama"
+            },
+            "spa": {
+                "official": "República de Panamá",
+                "common": "Panamá"
+            },
+            "srp": {
+                "official": "Република Панама",
+                "common": "Панама"
+            },
+            "swe": {
+                "official": "Republiken Panama",
+                "common": "Panama"
+            },
+            "tur": {
+                "official": "Panama Cumhuriyeti",
+                "common": "Panama"
+            },
+            "urd": {
+                "official": "جمہوریہ پاناما",
+                "common": "پاناما"
+            },
+            "zho": {
+                "official": "巴拿马共和国",
+                "common": "巴拿马"
+            }
+        },
+        "latlng": [
+            9,
+            -80
+        ],
+        "landlocked": false,
+        "borders": [
+            "COL",
+            "CRI"
+        ],
+        "area": 75417,
+        "demonyms": {
+            "eng": {
+                "f": "Panamanian",
+                "m": "Panamanian"
+            },
+            "fra": {
+                "f": "Panaméenne",
+                "m": "Panaméen"
+            }
+        },
+        "flag": "🇵🇦",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/287668"
+        },
+        "population": 4314768,
+        "gini": {
+            "2019": 49.8
+        },
+        "fifa": "PAN",
+        "car": {
+            "signs": [
+                "PA"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "continents": [
+            "North America"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/pa.png",
+            "svg": "https://flagcdn.com/pa.svg",
+            "alt": "The flag of Panama is composed of four equal rectangular areas — a white rectangular area with a blue five-pointed star at its center, a red rectangular area, a white rectangular area with a red five-pointed star at its center, and a blue rectangular area — in the upper hoist side, upper fly side, lower fly side and lower hoist side respectively."
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/pa.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/pa.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                8.97,
+                -79.53
+            ]
+        }
+    }
+]
