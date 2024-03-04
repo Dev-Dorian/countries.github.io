@@ -19,12 +19,12 @@ function useSearch() {
     }
 
     if (search === '') {
-      setError('You can not search for an empty movie')
+      setError('You can not search for an empty country')
       return
     }
 
     if (search.match(/^\d+$/)) {
-      setError('Can not search for a movie with a number')
+      setError('Can not search for a country with a number')
       return
     }
 
